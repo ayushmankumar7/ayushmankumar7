@@ -8,6 +8,7 @@
 
 
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=ayushmankumar7&show_icons=true)
+![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=ayushmankumar7)
 
 <!--
 **ayushmankumar7/ayushmankumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
